@@ -7,3 +7,16 @@ Electric Vehicle (EV) adoption is accelerating worldwide as governments and auto
 
 ---
 
+# Business Problem
+Governments, automobile manufacturers, policymakers, and energy providers needs reliable methods to identify individual who are most likely to adopt electric vehicle. without predictive analytics, organizations often struggle to:
+
+- Identify potential EV customer's
+- Design targeted marketing campaign
+- Improve charging infrastructure planning
+- Evaluate factor influencing EV adoption
+- Support sustainability initiatives
+
+This project addresses these challenges using supervise machine learning.
+
+---
+
