@@ -90,3 +90,62 @@ Model Deployment (Streamlit)
 ```
 
 # ⚙️ Feature Engineering
+Several domain-specific features were engineered to improve model performance.
+
+Created Features include:
+
+- Age Group
+- Annual Income Bracket
+- Commute Categories
+
+These engineered variables capture meaningful behavioral patterns that improve prediction accuracy
+
+---
+
+# 🤖 Machine Learning Models
+
+Several classification algorithms were evaluated.
+
+Models considered include:
+
+- Logistic Regression ✅ (Best Model)
+
+- Random Forest
+
+- XGBoost
+
+- LightGBM 
+
+
+Hyperparameter optimization was performed using RandomizedSearchCV only on logistic regression model.
+
+---
+
+# 🔍 Hyperparameter Tuning
+
+RandomizedSearchCV was used to optimize model parameters.
+
+Benefits:
+
+- Improved generalization
+
+- Reduced overfitting
+
+- Better predictive performance
+
+---
+
+# 📊 Model Performance
+
+| Metric | Score |
+
+|---------|--------|
+
+| Accuracy | **87.84%** |
+
+| ROC-AUC | **96.63%** |
+
+The Logistic Regression model achieved the best overall performance and was selected for deployment
+
+---
+
