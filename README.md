@@ -148,3 +148,12 @@ The Logistic Regression model achieved the best overall performance and was sele
 
 ## Web Application
 <img width="158" height="311" alt="image" src="https://github.com/user-attachments/assets/f09fad2a-845f-4118-a5cb-90b580835215" />
+
+Live Demo:
+https://your-streamlit-link.streamlit.app
+
+GitHub:
+
+https://github.com/kolex24/EV-Adoption-Likelihood_Prediction
+
+---
