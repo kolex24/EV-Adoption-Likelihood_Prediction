@@ -138,11 +138,8 @@ Benefits:
 # 📊 Model Performance
 
 | Metric | Score |
-
-|---------|--------|
-
+|---|---|
 | Accuracy | **87.84%** |
-
 | ROC-AUC | **96.63%** |
 
 The Logistic Regression model achieved the best overall performance and was selected for deployment
