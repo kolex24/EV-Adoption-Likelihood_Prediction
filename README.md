@@ -20,3 +20,73 @@ This project addresses these challenges using supervise machine learning.
 
 ---
 
+# Objectives 
+The primary onjectives are to:
+- Predict EV adoption Likelihood
+- Identify key factors that influence EV adoption
+- Support decision-making for policy, marketing, and infrastructure development
+- promote sustainable transportation through data driven insights
+
+---
+
+# 🔄 Project Workflow
+
+```
+
+Raw Dataset
+
+      │
+
+      ▼
+
+Data Cleaning
+
+      │
+
+      ▼
+
+Exploratory Data Analysis And Statistical Inference
+
+      │
+
+      ▼
+
+Feature Engineering
+
+      │
+
+      ▼
+
+Data Preprocessing
+
+      │
+
+      ▼
+Model Selection
+      │
+
+      ▼
+
+Model Training
+
+      │
+
+      ▼
+
+RandomizedSearchCV
+
+      │
+
+      ▼
+
+Model Evaluation
+
+      │
+
+      ▼
+
+Model Deployment (Streamlit)
+
+```
+
+# ⚙️ Feature Engineering
