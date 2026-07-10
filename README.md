@@ -147,4 +147,4 @@ The Logistic Regression model achieved the best overall performance and was sele
 ---
 
 ## Web Application
-![App Screenshot](<img width="158" height="311" alt="image" src="https://github.com/user-attachments/assets/f09fad2a-845f-4118-a5cb-90b580835215" />)
+![App Screenshot](Screenshot 2026-07-10 182926.png)
