@@ -1,4 +1,4 @@
-<img width="158" height="311" alt="image" src="https://github.com/user-attachments/assets/f09fad2a-845f-4118-a5cb-90b580835215" /># 🚗 EV Adoption Likelihood Prediction
+# 🚗 EV Adoption Likelihood Prediction
 > An end-to-end Machine Learning application that predicts the likelihood of electric vehicle (EV) adoption using demographic, behavioral, socio-economic and transportation-related features.
 
 ---
@@ -147,4 +147,4 @@ The Logistic Regression model achieved the best overall performance and was sele
 ---
 
 ## Web Application
-![App Screenshot]("C:\Users\HELLO\Pictures\Screenshots\Screenshot 2026-07-10 182926.png")
+![App Screenshot](<img width="158" height="311" alt="image" src="https://github.com/user-attachments/assets/f09fad2a-845f-4118-a5cb-90b580835215" /.)
