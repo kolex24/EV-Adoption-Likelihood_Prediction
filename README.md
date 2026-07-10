@@ -216,40 +216,4 @@ EV-Adoption-Likelihood-Prediction/
 
 ```
 
----
-
-# 🚀 Future Improvements
-
-Potential enhancements include:
-
-- SHAP Explainability
-
-- LIME Explainability
-
-- Model Monitoring
-
-- Docker Deployment
-
-- Cloud Deployment (AWS/Azure/GCP)
-
-- REST API using FastAPI
-
-- User Authentication
-
-- Real-time EV Adoption Dashboard
-
----
-
-# 👨‍💻 Author
-
-**Lukmon Khalid Gbolahan**
-
-Statistics | Data Science | Machine Learning
-
-GitHub:
-
-https://github.com/kolex24
-
----
-
 ## ⭐️ If you found this project useful, consider giving it a star!
