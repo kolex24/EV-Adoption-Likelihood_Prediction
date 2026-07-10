@@ -157,3 +157,99 @@ GitHub:
 https://github.com/kolex24/EV-Adoption-Likelihood_Prediction
 
 ---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+
+git clone https://github.com/kolex24/EV-Adoption-Likelihood-Prediction.git
+
+```
+
+Move into the project directory
+
+```bash
+
+cd EV-Adoption-Likelihood-Prediction
+
+```
+
+Install dependencies
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+Run the Streamlit application
+
+```bash
+
+streamlit run app.py
+
+```
+
+---
+
+# 📁 Project Structure
+
+```
+
+EV-Adoption-Likelihood-Prediction/
+
+│── app.py
+
+│── requirements.txt
+
+│── README.md
+
+│── ev_adoption_model.pkl
+
+│── scaler_encode.pkl
+
+│── global_ev_adoption_behavior_2026.csv
+
+│── EV_Adoption.ipynb
+
+```
+
+---
+
+# 🚀 Future Improvements
+
+Potential enhancements include:
+
+- SHAP Explainability
+
+- LIME Explainability
+
+- Model Monitoring
+
+- Docker Deployment
+
+- Cloud Deployment (AWS/Azure/GCP)
+
+- REST API using FastAPI
+
+- User Authentication
+
+- Real-time EV Adoption Dashboard
+
+---
+
+# 👨‍💻 Author
+
+**Lukmon Khalid Gbolahan**
+
+Statistics | Data Science | Machine Learning
+
+GitHub:
+
+https://github.com/kolex24
+
+---
+
+## ⭐️ If you found this project useful, consider giving it a star!
